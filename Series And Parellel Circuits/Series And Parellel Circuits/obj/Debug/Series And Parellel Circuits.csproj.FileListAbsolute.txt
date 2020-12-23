@@ -1,0 +1,13 @@
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\bin\Debug\Series And Parellel Circuits.exe.config
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\bin\Debug\Series And Parellel Circuits.exe
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\bin\Debug\Series And Parellel Circuits.pdb
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.csprojAssemblyReference.cache
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series_And_Parellel_Circuits.SeriesParellel.resources
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series_And_Parellel_Circuits.Properties.Resources.resources
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.csproj.GenerateResource.cache
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.exe
+C:\Users\Rama Nagpal\Desktop\Yashrajs Visual Studio Work\Comp.Eng\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.pdb
+C:\Users\nagpa\OneDrive\Documents\Waterloo\Coop\Projects\Visual Studio Projects\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.csprojAssemblyReference.cache
+C:\Users\nagpa\OneDrive\Documents\Waterloo\Coop\Projects\Visual Studio Projects\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.exe
+C:\Users\nagpa\OneDrive\Documents\Waterloo\Coop\Projects\Visual Studio Projects\Series And Parellel Circuits\Series And Parellel Circuits\obj\Debug\Series And Parellel Circuits.pdb
